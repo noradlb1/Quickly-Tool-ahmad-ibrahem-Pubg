@@ -1,0 +1,7 @@
+C:\Users\MONSTERMC\Desktop\Quickly Tool\Quickly Tool\obj\x64\Debug\Quickly Tool.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\Quickly Tool\Quickly Tool\obj\x64\Debug\Quickly Tool.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\Quickly Tool\Quickly Tool\bin\Debug\Quickly Tool.exe.config
+C:\Users\MONSTERMC\Desktop\Quickly Tool\Quickly Tool\bin\Debug\Quickly Tool.exe
+C:\Users\MONSTERMC\Desktop\Quickly Tool\Quickly Tool\bin\Debug\Quickly Tool.pdb
+C:\Users\MONSTERMC\Desktop\Quickly Tool\Quickly Tool\obj\x64\Debug\Quickly Tool.exe
+C:\Users\MONSTERMC\Desktop\Quickly Tool\Quickly Tool\obj\x64\Debug\Quickly Tool.pdb
